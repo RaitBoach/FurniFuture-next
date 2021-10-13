@@ -1,0 +1,39 @@
+{
+  "name": "furnifuture",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^11.1.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "sequelize": "^6.6.5",
+    "sequelize-cli": "^6.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next dev -p 8000",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+<<<<<<< Updated upstream
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ingeliza/FurniFuture.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ingeliza/FurniFuture/issues"
+  },
+  "homepage": "https://github.com/ingeliza/FurniFuture#readme"
+=======
+  "dependencies": {
+    "bootstrap": "^5.0.0-beta3",
+    "next": "^11.0.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  }
+>>>>>>> Stashed changes
+}
